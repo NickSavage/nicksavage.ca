@@ -1,0 +1,38 @@
+.menu {
+    float: right;
+    width: 10%;
+    margin-top: 60px;
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu li {
+    
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #0864c7;
+}
+a:visited {
+    color: #0864c7;
+}
+
+body {
+    background: #eef4f7;
+}
+
+.main {
+    display: flex;
+}
+
+.left {
+    width: 100px;
+}
+.content {
+    margin-top: 60px;
+    width: 80%;
+}
